@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BookTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.008">
+  <properties/>
+  <testcase name="行からBookになる確認のサンプル場合" classname="BookTest" time="0.003"/>
+  <testcase name="サンプル紐付け用キーの確認" classname="BookTest" time="0.003"/>
+  <testcase name="行からBookになる確認の本編場合" classname="BookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

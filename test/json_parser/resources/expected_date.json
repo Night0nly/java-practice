@@ -1,0 +1,13 @@
+[
+  {
+    "id" : "id3",
+    "publisher" : "publisher3",
+    "author" : "author3",
+    "title" : "titleName3",
+    "subtitle" : "本編",
+    "volume" : 1,
+    "price" : 400,
+    "delivery_starts_at" : "2018-04-06",
+    "delivery_ends_at" : "2999-12-31"
+  }
+]

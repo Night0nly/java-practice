@@ -1,0 +1,46 @@
+[
+  {
+    "id" : "id2",
+    "publisher" : "Toyboo!",
+    "author" : "author2",
+    "title" : "titleName2",
+    "subtitle" : "本編",
+    "volume" : 1,
+    "price" : 1000,
+    "delivery_starts_at" : "2017-06-01",
+    "delivery_ends_at" : "2999-12-31",
+    "sample" : {
+      "id" : "id7",
+      "publisher" : "Toyboo!",
+      "author" : "author2",
+      "title" : "titleName2",
+      "subtitle" : "サンプル",
+      "volume" : 1,
+      "price" : 1000,
+      "delivery_starts_at" : "2017-06-01",
+      "delivery_ends_at" : "2999-12-31"
+    }
+  },
+  {
+    "id" : "id1",
+    "publisher" : "Toyboo!",
+    "author" : "author1",
+    "title" : "titleName1",
+    "subtitle" : "本編",
+    "volume" : 1,
+    "price" : 1000,
+    "delivery_starts_at" : "2017-06-01",
+    "delivery_ends_at" : "2999-12-31",
+    "sample" : {
+      "id" : "id6",
+      "publisher" : "Toyboo!",
+      "author" : "author1",
+      "title" : "titleName1",
+      "subtitle" : "サンプル",
+      "volume" : 1,
+      "price" : 1000,
+      "delivery_starts_at" : "2017-06-01",
+      "delivery_ends_at" : "2999-12-31"
+    }
+  }
+]

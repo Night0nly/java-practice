@@ -1,0 +1,12 @@
+sourceSets {
+    main {
+         java {
+            srcDirs = ['main']
+         }
+    }
+	test {
+        java {
+            srcDirs = ['../../test/fizz_buzz_2']
+        }
+    }
+}

@@ -1,0 +1,13 @@
+// To declare projects as part of a multi-project build use the 'include' method
+
+
+include 'fizz_buzz'
+project(':fizz_buzz').projectDir = file('src/fizz_buzz')
+
+include 'fizz_buzz_2'
+project(':fizz_buzz_2').projectDir = file('src/fizz_buzz_2')
+
+include 'json_parser'
+project(':json_parser').projectDir = file('src/json_parser')
+
+rootProject.name = 'java_training'

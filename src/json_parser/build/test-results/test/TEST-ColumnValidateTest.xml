@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ColumnValidateTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.016">
+  <properties/>
+  <testcase name="サンプルの文字列が期限フォーマットでないものの判定でfalseとなることの確認" classname="ColumnValidateTest" time="0.002"/>
+  <testcase name="DLの文字列が期限フォーマットでないものの判定でfalseとなることの確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="正しい日にちフォーマットの文字烈が日付フォーマットでないものの判定でtrueとなることの確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="数字の文字列が期限フォーマットでないものの判定でfalseとなることの確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="DLとサンプル文字列が期限フォーマットでないものの判定でtrueとなることの確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="文字列の記号が数字でないものの判定でtrueとなることを確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="空文が空文の判定でtrueとなることを確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="文字列の数字が数字でないものの判定でfalseとなることを確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="文字列が空文の判定でfalseとなることを確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="間違い日付フォーマットの文字列が日時フォーマットでないものの判定でtrueになることの確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="間違い日にちフォーマットの文字烈が日付フォーマットでないものの判定でtrueとなることの確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="無期限の文字列が期限フォーマットでないものの判定でfalseとなることの確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="無期限と数字以外の文字列が期限フォーマットでないものの判定でtrueとなることの確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="文字列の文字が数字でないものの判定でtrueとなることを確認" classname="ColumnValidateTest" time="0.0"/>
+  <testcase name="間違い時間フォーマットの文字列が日時フォーマットでないものの判定でtrueになることの確認" classname="ColumnValidateTest" time="0.001"/>
+  <testcase name="日時フォーマットの文字列が日時フォーマットでないものの判定でfalseになることの確認" classname="ColumnValidateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

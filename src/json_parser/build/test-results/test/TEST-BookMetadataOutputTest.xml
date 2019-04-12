@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BookMetadataOutputTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.424">
+  <properties/>
+  <testcase name="出版社による絞り込みの確認" classname="BookMetadataOutputTest" time="0.365"/>
+  <testcase name="配信開始日による絞り込みの確認" classname="BookMetadataOutputTest" time="0.028"/>
+  <testcase name="価格による絞り込みの確認" classname="BookMetadataOutputTest" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

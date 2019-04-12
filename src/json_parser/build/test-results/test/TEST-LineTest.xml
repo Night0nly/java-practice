@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LineTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.004">
+  <properties/>
+  <testcase name="登録日時列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="配信許諾名列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="ID列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="価格列の値の確認" classname="LineTest" time="0.001"/>
+  <testcase name="配信開始日列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="許諾開始日列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="タイトル列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="作者列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="更新日時列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="通番列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="フォーマット列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="DL区分列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="配信終了日列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="DL期限列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="許諾終了日列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="タイトルID列の値の確認" classname="LineTest" time="0.0"/>
+  <testcase name="出版社列の値の確認" classname="LineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

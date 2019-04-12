@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BooksTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.113">
+  <properties/>
+  <testcase name="配信開始日よるフィルターの確認" classname="BooksTest" time="0.089"/>
+  <testcase name="価格よるフィルターの確認" classname="BooksTest" time="0.013"/>
+  <testcase name="サンプルマップテスト" classname="BooksTest" time="0.009"/>
+  <testcase name="出版社よるフィルターの確認" classname="BooksTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

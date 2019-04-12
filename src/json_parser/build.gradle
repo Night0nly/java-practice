@@ -1,0 +1,28 @@
+sourceSets {
+    main {
+         java {
+            srcDirs = ['main']
+         }
+    }
+	test {
+        java {
+            srcDirs = ['../../test/json_parser']
+        }
+    }
+}
+dependencies {
+	// https://mvnrepository.com/artifact/commons-io/commons-io
+	compile group: 'commons-io', name: 'commons-io', version: '2.6'
+
+	// https://mvnrepository.com/artifact/com.github.stefanbirkner/system-rules
+	testCompile group: 'com.github.stefanbirkner', name: 'system-rules', version: '1.18.0'
+ 
+	// https://mvnrepository.com/artifact/org.assertj/assertj-core
+	testCompile group: 'org.assertj', name: 'assertj-core', version: '3.10.0'
+	
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+	compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.6'
+
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310
+	compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.9.6'
+}

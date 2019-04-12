@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorOutputTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-18T07:10:32" hostname="H-00621" time="0.056">
+  <properties/>
+  <testcase name="コンソールにエラー情報を出力することの確認" classname="ErrorOutputTest" time="0.023"/>
+  <testcase name="エラーファイルの作成確認" classname="ErrorOutputTest" time="0.032"/>
+  <system-out><![CDATA[50行目の列数はおかしいです。20になっています。
+12行目の「タイトルID」は空文字です。
+12行目の「配信終了日」はおかしいです。2999/12/aaになっています。
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
